@@ -1,0 +1,6 @@
+AssetTypeID,AssetType
+1,  bond 
+2,  mutual fund 
+3,  etf 
+4,  crypto 
+5,  stock 

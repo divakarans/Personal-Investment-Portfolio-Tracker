@@ -1,0 +1,11 @@
+AssetID,AssetName,AssetType,Symbol,BrokerID
+1,  TCS ,  stock ,TCS,1
+2,  INFY ,  stock ,INFY,1
+3,  RELIANCE ,  stock ,RELI,1
+4,  HDFC MF ,  mutual fund ,HDFCMF,2
+5,  SBI MF ,  mutual fund ,SBIMF,2
+6,  Bitcoin ,  crypto ,BTC,3
+7,  Ethereum ,  crypto ,ETH,3
+8,  LIC Bonds ,  bond ,LICBD,4
+9,  Gold ETF ,  etf ,GOLDETF,4
+10,  Axis MF ,  mutual fund ,AXISMF,2
